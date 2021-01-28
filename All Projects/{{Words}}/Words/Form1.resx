@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="RichTextBox1.Text" xml:space="preserve">
+    <value>Dehydration can cause headaches and several physiological issues, and older adults are most at risk of experiencing it. Does it also affect cognitive function, however? And might overhydration also affect mental performance?Dehydration can cause headaches, lethargy, dizziness, and many other issues, depending on how severe it is.
+
+Studies have tended to focus on the effects of dehydration in younger populations — especially in the context of sports and fitness, where overexertion and abundant sweating can cause people to lose more fluids than they than ingest.
+
+However, one segment of the population is particularly susceptible to dehydration: older adults.
+
+“As we age, our water reserves decline due to reductions in muscle mass, our kidneys become less effective at retaining water, and hormonal signals that trigger thirst and motivate water intake become blunted,” explains Hilary Bethancourt, Ph.D., from the Pennsylvania State University College of Health and Human Development in State College.
+
+Older adults also have a higher risk of cognitive impairment. Are their hydration levels and their cognitive performance linked in any way? Bethancourt and colleagues set out to answer this question in a new study. Their findings now appear in the European Journal of Nutrition.
+
+“[W]e felt like it was particularly important to look at cognitive performance in relation to hydration status and water intake among older adults, who may be underhydrated on a regular basis,” says Bethancourt, the study’s first author.
+
+MEDICAL NEWS TODAY NEWSLETTER
+Stay in the know. Get our free daily newsletter
+Expect in-depth, science-backed toplines of our best stories every day. Tap in and keep your curiosity satisfied.
+
+Enter your email
+Your privacy is important to us
+
+Under and overhydration are both nonideal
+In their study, the researchers analyzed the data of 2,506 participants — 1,271 women and 1,235 men — aged 60 and over. The Nutrition and Health Examination Survey collected these data in 2011–2014.
+
+All the participants involved in the study were able to give blood samples. They also provided information about what they had consumed throughout the day preceding the blood sample collection.
+
+To measure each participant’s hydration levels, the investigators looked at the concentration of different substances and compounds — including sodium, potassium, glucose, and urea nitrogen — in their blood.
+
+All participants also undertook cognitive function tests, including tasks designed to assess verbal recall and fluency, and exercises focused on attention levels and working memory.
+
+At first glance, the researchers found an association between appropriate hydration and good scores in the cognitive function tests. However, the results became less clear when the researchers adjusted their analysis for confounding factors.
+
+“Once we accounted for age, education, hours of sleep, physical activity level, and diabetes status and analyzed the data separately for men and women, the associations with hydration status and water intake were diminished,” says Bethancourt.
+
+After these readjustments, only some of the links remained of interest. In particular, the researchers saw that women appeared to display poorer cognitive performance when they were underhydrated. The same applied when they were overhydrated.
+
+“A trend toward lower scores on [one of the cognitive function tests] among women who were categorized as either underhydrated or overhydrated was the most prominent finding that remained after we accounted for other influential factors,” explains Bethancourt.
+
+The test that those who were overhydrated or underhydrated performed the worst in was “the test of attention, processing speed, and working memory,” she says.
+
+“It was interesting that even though [this test] took only a few minutes, it was the one most strongly associated with lower hydration levels,” notes Bethancourt.
+
+“Other research has similarly suggested that attention may be one of the cognitive domains most affected by hydration status. This left us wondering what the effects of inadequate hydration might be on more difficult tasks requiring longer periods of concentration and focus,” she adds.
+
+However, the researchers were unable to confirm whether nonideal hydration levels caused worse cognitive performance, or whether individuals who may already have had some cognitive impairments were also likelier to drink too few or too many liquids.
+
+The lack of a link between hydration levels and cognitive performance in older men also remains a mystery.
+
+Although many questions remain to be answered, study co-author Prof. Asher Rosinger advises that older adults should not risk their health by overlooking proper hydration.
+
+“Because older adults may not necessarily feel thirsty when their body is reaching a state of underhydration and may be taking diuretics that can increase salt excretion, it is important for older adults and their physicians to better</value>
+  </data>
+</root>
